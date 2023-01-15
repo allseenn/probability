@@ -7,7 +7,7 @@
 
 # Решение
 
-1. Задача
-2. Задача
-3. Задача
-4. Задача
+1. [Задача 1](https://github.com/allseenn/probability/blob/main/01.Tasks/01.py)
+2. [Задача 2](https://github.com/allseenn/probability/blob/main/01.Tasks/02.py)
+3. [Задача 3](https://github.com/allseenn/probability/blob/main/01.Tasks/03.py)
+4. [Задача 4](https://github.com/allseenn/probability/blob/main/01.Tasks/04.py)
