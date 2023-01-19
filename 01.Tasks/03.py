@@ -3,5 +3,10 @@
 # P(A) - вероятность вытащить 1-ую окрашенную деталь = 9/15
 # P(B) - вероятность вытащить 2-ую окрашенную деталь = 8/14
 # P(C) - вероятность вытащить 3-ью окрашенную деталь = 7/13
+import math
+def combinations(n,k):
+    return math.factorial(n) / (math.factorial(k) * math.factorial(n-k))
+print(f"Вероятность выташить 3 окрашенных детали {combinations(9,3)*combinations(6,0)/combinations(15,3)*100:0.2f}%")
+
 probability = 9/15 * 8/14 * 7/13
 print(f"Вероятность выташить 3 окрашенных детали {probability*100:0.2f}%")
