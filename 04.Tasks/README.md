@@ -28,7 +28,7 @@ f(x) = (1 / (4 * sqrt(2pi))) * exp((-(x+2)**2) / 32)
 
 5)На сколько сигм (средних квадратичных отклонений) отклоняется рост человека, равный 190 см, от математического ожидания роста в популяции, в которой M(X) = 178 см и D(X) = 25 кв.см?На сколько сигм (средних квадратичных отклонений) отклоняется рост человека, равный 190 см, от математического ожидания роста в популяции, в которой M(X) = 178 см и D(X) = 25 кв.см
 # Решение
-Все Z-значения взяты из это [Z-таблицы](Ztable.pdf)
+Все Z-значения взяты из это [Z-таблицы](https://github.com/allseenn/probability/blob/main/04.Tasks/Ztable.pdf)
 1. [Задача1](https://github.com/allseenn/probability/blob/main/04.Tasks/01.py)
 2. [Задача2](https://github.com/allseenn/probability/blob/main/04.Tasks/02.py)
 3. [Задача3](https://github.com/allseenn/probability/blob/main/04.Tasks/03.py)
