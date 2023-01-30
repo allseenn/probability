@@ -13,4 +13,4 @@ y.sort()
 t_stat, p_value = stats.ttest_rel(y, x)
 print(f"H0: m1 = m0, H1: m1 != m0")
 print(f"p-value {p_value:.2f} t-статистики {t_stat:.2f} меньше альфа {a},\n\
-следовательно H0 опровергается")
+следовательно нелевая гипотеза (H0) опровергается")
