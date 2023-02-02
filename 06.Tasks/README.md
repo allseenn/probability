@@ -5,6 +5,6 @@
 Рост матерей 178, 165, 165, 173, 168, 155, 160, 164, 178, 175
 Используя эти данные построить 95% доверительный интервал для разности среднего роста родителей и детей.
 # Решение задач
-1. [Задача 1]()
-2. [Задача 2]()
-3. [Задача 3]()
+1. [Задача 1](https://github.com/allseenn/probability/blob/main/06.Tasks/01.py)
+2. [Задача 2](https://github.com/allseenn/probability/blob/main/06.Tasks/02.py)
+3. [Задача 3](https://github.com/allseenn/probability/blob/main/06.Tasks/03.py)
