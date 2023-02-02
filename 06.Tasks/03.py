@@ -13,7 +13,7 @@ mom_mean = np.mean(mom)
 kid_mean = np.mean(kid)
 difference = mom_mean - kid_mean
 d1 = np.var(mom, ddof=1)
-d2 = np.var(mom, ddof=1)
+d2 = np.var(kid, ddof=1)
 a = 0.975
 t = stats.t.ppf(a, 2*(n-1))
 D = (d1+d2)/2
